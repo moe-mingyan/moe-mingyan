@@ -1,24 +1,27 @@
-[Rentry](https://rentry.co/liu-mingyan) strawpage is wip
 
-<img src="https://files.catbox.moe/jgqxyr.png" />
+<p align="center">
+  <img src="https://files.catbox.moe/qcxkal.png" />
+<p align="center">
+  <img src="https://files.catbox.moe/v76gqm.gif" />
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31o4z7cp3nerhwkjorurcqegbpja&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=b582e8&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<p align="center">
+𝓘rene 𓎢𓎟 14
+
+<p align="center"> 
+she　⋮　him prns please 
+
+  <p align="center">
+     Discord - angelphilla
+ </p>
   
-<img src="https://files.catbox.moe/4s6tdr.webp" /><img src="https://files.catbox.moe/zyjt9q.webp" /><img src="https://files.catbox.moe/jsk5t3.webp" />
+<p align="center">  
 
-<img src="https://files.catbox.moe/i703jj.jpg" /><img src="https://files.catbox.moe/0ell3t.webp" /><img src="https://files.catbox.moe/nxj03f.webp" /><img src="https://files.catbox.moe/5nv39s.webp" /><img src="https://files.catbox.moe/oq8jco.webp" /><img src="https://files.catbox.moe/xf3y81.png" /><img src="https://files.catbox.moe/uk9cpx.webp" />
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31o4z7cp3nerhwkjorurcqegbpja&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=b582e8&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
+<p align="center">
+  <img src="https://files.catbox.moe/08e9j7.png" />
 
 <!--
-**moe-mingyan/moe-mingyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+don't use the graphics made here ty
+<!--
